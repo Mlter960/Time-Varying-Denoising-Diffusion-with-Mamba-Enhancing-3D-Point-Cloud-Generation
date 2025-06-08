@@ -1,17 +1,28 @@
 ## Requirements:
 
 Make sure the following environments are installed.
-(Code tested with cuda11)
+(Code tested with cuda11.3)
 
 ```
-python
-pytorch
-torchvision
-matplotlib
-tqdm
-open3d
-trimesh
-scipy
+pip install ninja
+
+pip install matplotlib
+
+pip install tqdm
+
+pip install open3d
+
+pip install trimesh
+
+pip install scipy
+
+pip install timm
+
+pip install seaborn
+
+pip install causal-conv1d==1.1.1
+
+pip install mamba-ssm==1.1.1
 ```
 
 Install PyTorchEMD by
