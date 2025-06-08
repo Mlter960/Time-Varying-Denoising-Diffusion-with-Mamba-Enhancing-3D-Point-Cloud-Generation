@@ -34,6 +34,7 @@ cp build/**/emd_cuda.cpython-36m-x86_64-linux-gnu.so .
 
 Datase
 ```
+The dataset used is ShapeNetCore.v2.PC15k, and it should be placed in the `data` folder.
 project_root/
 ├── data/
 │   └── ShapeNetCore.v2.PC15k/
