@@ -32,6 +32,23 @@ python setup.py install
 cp build/**/emd_cuda.cpython-36m-x86_64-linux-gnu.so .
 ```
 
+Datase
+```
+project_root/
+├── data/
+│   └── ShapeNetCore.v2.PC15k/
+│       ├── airplane/
+│       │   ├── 1234abcd.ply
+│       │   └── ...
+│       ├── chair/
+│       │   ├── 5678efgh.ply
+│       │   └── ...
+│       └── ...
+├── scripts/
+├── models/
+└── ...
+
+```
 
 ## Training:
 
