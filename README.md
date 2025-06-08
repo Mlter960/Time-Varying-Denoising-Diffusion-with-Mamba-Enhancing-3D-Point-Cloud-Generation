@@ -1,9 +1,3 @@
-
-# :tiger:Tiger-Time-varying-Diffusion-Model-for-Point-Cloud-Generation
-This is the official code for the CVPR 2024 Publication:
-
-[**Tiger: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TIGER_Time-Varying_Denoising_Model_for_3D_Point_Cloud_Generation_with_CVPR_2024_paper.pdf)
-
 ## Requirements:
 
 Make sure the following environments are installed.
